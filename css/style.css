@@ -16,14 +16,62 @@
 /* author */
 .text-author {
     color: #808080;
+}
+
+.wrote-by{
     font-weight: 1000;
 }
 
-#link {
+.link {
     color: #20A9E5;
     text-decoration: none;
 }
 
-#data{
-    font-weight: 1;
+#first-table {
+    font-size: small;
 }
+
+/*
+#table-background{
+    background-color: transparent;
+}
+
+.table-color{
+    border-color: #B1E5F2;
+    background-color: #B1E5F2;
+}
+
+#thead-color{
+    background-color: #20A9E5;
+}
+
+#tr-color-middle{
+    background-color: #FFFFFF;
+}
+
+.tr-border{
+    column-span: 2;
+    border-top: 10px;
+    border-bottom: 10px;
+}
+*/
+
+.st-bottom-img{
+    background-image: url(../img/monitor.jpg);
+    background-size: auto;
+    background-repeat: no-repeat;
+    width: 500px;
+    height: 230px;
+    color: #FFFFFF;
+}
+
+
+.nd-bottom-img{
+    background-image:  url(../img/graph.jpg);
+    background-size: auto;
+    background-repeat: no-repeat;
+    width: 500px;
+    height: 400px;
+    color: #FFFFFF;
+}
+
