@@ -1,4 +1,29 @@
+
+/* logo */
 #background-logo {
-    /*background-image: url(../img/pattern.png);
-    background-repeat: repeat;*/
+    background-image: url(../img/pattern.png);
+    background-size: 20%;
+    background-repeat:repeat-x;
+    background-color: #4EA0FF;
+    width: auto;
+    height: 78.5px;
+}
+
+#booleaner-logo {
+    width: 11%;
+}
+
+/* author */
+.text-author {
+    color: #808080;
+    font-weight: 1000;
+}
+
+#link {
+    color: #20A9E5;
+    text-decoration: none;
+}
+
+#data{
+    font-weight: 1;
 }
